@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-# In HSV, it is more easier to represent a color than RGB color-space.
+## In HSV, it is more easier to represent a color than RGB color-space.
 
 cap = cv2.VideoCapture(0)
 while(1):
